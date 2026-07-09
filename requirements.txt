@@ -1,8 +1,9 @@
 fastapi==0.139.0
 uvicorn[standard]==0.51.0
 pydantic==2.13.4
-pydantic-settings>=2.0.0
 python-multipart>=0.0.12
 openai-whisper>=20240930
 opencv-python>=4.10.0
 numpy>=1.26.0
+PyYAML>=6.0
+opencc-python-reimplemented>=0.1.7
